@@ -65,7 +65,7 @@ O problema da Mochila 0/1 é resolvido usando Programação Dinâmica com a abor
 
 4.  **Execute o script:**
     ```bash
-    python nexus_optimizer.py
+    python nexus.py
     ```
 
 O script irá carregar os dados, executar o otimizador e imprimir no terminal o relatório final com a trilha de cursos recomendada, o impacto máximo e o tempo total.
